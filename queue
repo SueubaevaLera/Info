@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
- classQueue {
+ class Queue {
 private:
-     classNode {
+      class Node {
        public:
             int value;
  Node *prev, *next;
